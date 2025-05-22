@@ -1,0 +1,68 @@
+.listar-registro-container {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+select {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 80%;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #388E3C;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+  font-weight: bold;
+}
+
+td {
+  background-color: #f9f9f9;
+  color: #333;  /* Cor de texto mais escura para contrastar com o fundo claro */
+}
+
+td:nth-child(even) {
+  background-color: #f1f1f1; /* Alterna o fundo das células para melhorar a leitura */
+}
+
+td:hover {
+  background-color: #e0e0e0; /* Um fundo mais claro ao passar o mouse para destacar */
+}
+
+.erro {
+  color: red;
+  margin-top: 10px;
+}

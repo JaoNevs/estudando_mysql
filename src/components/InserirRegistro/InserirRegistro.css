@@ -1,0 +1,21 @@
+/* InserirRegistro.css */
+
+/* Alerta com fundo verde e texto branco para sucesso */
+.alerta.sucesso {
+  background-color: #28a745;
+  color: white;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Alerta com fundo vermelho e texto branco para erro */
+.alerta.erro {
+  background-color: #dc3545;
+  color: white;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-align: center;
+}
