@@ -62,8 +62,4 @@ Antes de iniciar, certifique-se de que possui os seguintes softwares instalados:
 1. Abra o navegador e acesse `http://localhost:3000`.
 2. Utilize a interface para criar um banco de dados, tabelas e inserir registros.
 3. Visualize as tabelas e registros criados.
-
-## 6. Vídeo de Demonstração
-Confira o vídeo de teste do aplicativo no link abaixo:
-
-[Vídeo de Teste do App](https://drive.google.com/file/d/1_SF5sAcuiMNJ0Zxig3B8DQNppJNbt37S/view?usp=sharing)
+   
